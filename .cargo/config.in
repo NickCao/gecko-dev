@@ -47,6 +47,11 @@ git = "https://github.com/mozilla-spidermonkey/jsparagus"
 replace-with = "vendored-sources"
 rev = "ecc433935118a4ff22d33c4fe7c625a5d0bfb571"
 
+[source."https://github.com/makotokato/authenticator-rs"]
+git = "https://github.com/makotokato/authenticator-rs"
+replace-with = "vendored-sources"
+rev = "eed8919d50559f4959e2d7d2af7b4d48869b5366"
+
 [source."https://github.com/kvark/dummy-web"]
 git = "https://github.com/kvark/dummy-web"
 replace-with = "vendored-sources"
